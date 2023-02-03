@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome I'M Lent💖 ~</h1>
+<h1 align="center">~ 💖 Welcome I'M Rudal💖 ~</h1>
 <br>
 <div align="center">
   </a>
@@ -9,7 +9,7 @@
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
-<p><a href="https://youtube.com/@lenttobs">- subscribe ya</a><p>
+<p><a href="https://youtube.com/@radenmanis6592">- subscribe ya</a><p>
   
 </div>
     <div align="center">
@@ -21,15 +21,15 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Xynaa</li>
+ <b>Name:</b> Fanky</li>
 <li>
-<b>Umur:</b> 16 YearsOld
+<b>Umur:</b> 18 YearsOld
 </li>
 <li>
 <b>Skils:</b> Html,Js,C++
 </li>
 <li>
-<b>Gender:</b> Perempuan
+<b>Gender:</b> laki-laki
 </li>
 <li>
 <b>Id Server</b> 72.838.42
@@ -43,7 +43,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 Xynaa 📇 ~</h2>
+<h2 align="center">            ~ 📇 fanky 📇 ~</h2>
  <br>
 <p>
   <div align="center">
