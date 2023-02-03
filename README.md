@@ -5,7 +5,7 @@
 <div align="center">
   </a>
     <br>
-  <p>LENZ</p>
+  <p>Mikaz</p>
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
